@@ -17,4 +17,4 @@ That codebase is private. The public repositories here are a 2026 hackathon prot
 
 **Also:** websites for two family-run businesses, [lisa.org.il](https://lisa.org.il) and [magnezy.co.il](https://magnezy.co.il).
 
-📍 Netanya, Israel, relocating to Cyprus in January 2027 · [LinkedIn](https://www.linkedin.com/in/aviv-magnezy)
+[LinkedIn](https://www.linkedin.com/in/aviv-magnezy)
